@@ -16,13 +16,13 @@ Usage
 -----
 RF Revised requires Alpine Faction 1.1.0+
 - Check out this repo to a directory named `rfrevised` in `RedFaction\mods\`
+- Populate `.\src\_tools` as described in `Build Info` below
 - Run `.\src\_build_all_packfiles.bat`
 - Launch the Alpine Faction launcher and select `rfrevised` from the `Mod` dropdown at the bottom of the window.
 - Click `Play`
 
 Build Info
 -----
-- vpp files should never be directly modified
-- All packfiles other than level packfiles are created with build batch files in `.\src` with file lists from the corresponding directory under `.\src`
+- All packfiles are created with build batch files in `.\src` with file lists from the corresponding directory under `.\src`
 - To build packfiles, you must include copies of the following tools in the `.\src\_tools` directory:
   - `ccrunch.exe`

@@ -14,10 +14,11 @@ The project aims to keep overall scope managable while satisfying the guiding pr
 
 Usage
 -----
-RF Revised requires Dash Faction 1.8.0+
-- Create a directory named `rfrevised` in `RedFaction\mods\` for the data in this repo.
-- Launch the Dash Faction launcher and select `rfrevised` from the `Mod` dropdown at the bottom of the window.
-- Click `Launch Game`
+RF Revised requires Alpine Faction 1.1.0+
+- Check out this repo to a directory named `rfrevised` in `RedFaction\mods\`
+- Run `.\src\_build_all_packfiles.bat`
+- Launch the Alpine Faction launcher and select `rfrevised` from the `Mod` dropdown at the bottom of the window.
+- Click `Play`
 
 Build Info
 -----
